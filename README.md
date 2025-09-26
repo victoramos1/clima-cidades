@@ -28,13 +28,13 @@
   <li>a) crie uma conta no site</li>
   <li>b) após ser redirecionado, clique no seu nome de usuário na barra superior para as opções aparecerem</li>
   <li>c) clique em "My API Keys"</li>
-  <li>d) nessa área mostrará a sua API Key para o próximo passo</li>
+  <li>d) nessa área mostrará a sua API Key gerada automaticamente por conta do cadastro. Copie e armazene para o próximo passo</li>
   </ul>
   
   OBS: Caso já tenha conta no site, pular o passo a)
 </p>
 
-<p>4- Cole a sua API Key no código dentro do arquivo main.dart, dentro das aspas em <code>String = apiKey=""</code>. Terá uma instrução dentro do código para auxílio.</p>
+<p>4- Com o projeto aberto dentro da sua IDE, cole a sua API Key no código dentro do arquivo main.dart, dentro das aspas em <code>String = apiKey=""</code>. Terá uma instrução dentro do código para auxílio.</p>
 
 <p>5 - Com o projeto aberto e com o endereço do terminal da IDE indicando onde está seu projeto, execute o comando <code>flutter pub get</code> para baixar dependências</p>
 
@@ -43,4 +43,5 @@
 <h2>Status do projeto</h2>
 
 <p>Versão 1.0.0 finalizada.</p>
+
 
