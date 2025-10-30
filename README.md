@@ -1,5 +1,6 @@
 <h1>Projeto: Temperatura das cidades</h1>
 
+![App em funcionamento](imagens/consulta-temperatura.gif)
 
 <h2>Descrição do projeto</h2>
 
@@ -43,5 +44,6 @@
 <h2>Status do projeto</h2>
 
 <p>Versão 1.0.0 finalizada.</p>
+
 
 
